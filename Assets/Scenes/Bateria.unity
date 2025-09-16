@@ -2569,7 +2569,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   boardSensor: {fileID: 1349664160}
-  threshold: 12
+  threshold: 10
 --- !u!1 &676414749 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1047358509368210, guid: 8568973b327fbf848b462156cb2197d4, type: 3}
